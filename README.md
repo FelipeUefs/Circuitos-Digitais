@@ -1,4 +1,4 @@
-# Circuitos-Digitais
+#PBL da Primeira Unidade de Circuitos Digitais
 # Conversor Binário para Display de Sete Segmentos
 
 ## 📖 Descrição do Projeto
